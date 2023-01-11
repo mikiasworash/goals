@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e5245091-0013-427f-b96e-9f626491139d"
+      }
+    },
+    "owner": "mikiasworash"
   }
 }
